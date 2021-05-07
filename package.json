@@ -38,6 +38,6 @@
     "ip": "^1.1.2",
     "karma": "^1.1.2",
     "postcss-scss": "^0.1.7",
-    "underscore": "^1.8.3"
+    "underscore": "^1.12.1"
   }
 }
